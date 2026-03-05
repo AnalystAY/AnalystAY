@@ -1,9 +1,9 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Ayomide Emmanuel Idowu (Analyst AY) 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Data+Storytelling+%26+Visualization;Helping+Businesses+Make+Data+Driven+Decisions" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -14,25 +14,27 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm **Ayomide Emmanuel Idowu**, a **Certified Associate Data Analyst** and the face behind the **Analyst AY** brand. I am passionate about helping businesses make sense of their data and turn numbers into meaningful insights that support better decision-making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I enjoy transforming complex and messy datasets into **clear insights, compelling dashboards, and actionable business intelligence**.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more strategic work, and developing analytical solutions that help businesses understand trends and plan for the future.
+
+When I'm not working with data, I enjoy **teaching data analytics, mentoring aspiring analysts, and creating educational content that helps beginners break into the data field**. I especially love the **“aha!” moment when data reveals something new and useful.**
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Sales Performance Dashboard:** Building an interactive Power BI dashboard to analyze revenue trends, regional sales performance, and key business KPIs.  
+- **Customer Behavior Analysis:** Exploring purchasing patterns using Python and SQL to uncover insights that help businesses understand their customers better.
+- **Content Creation:** Developing educational tutorials and resources to help aspiring data analysts learn practical data analytics skills.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced **Python for Data Analysis and Automation**.
+- **Machine Learning fundamentals** for predictive analytics and data-driven forecasting.
 
 ## 🛠️ Technical Skillset
 
